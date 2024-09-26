@@ -1,3 +1,6 @@
+// whenever we are using tailwind in our applications we have to configure it. 
+// any variable that we want to use as css should be deined here.
+
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [

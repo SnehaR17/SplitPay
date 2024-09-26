@@ -12,8 +12,6 @@ const LandingPage = () => {
     }
   return (
     <div className='w-full h-full bg-background'>
-              <ErrorComponent/>
-              <SuccessComponent/>
         <HeaderLandingPage />
     </div>
   )
